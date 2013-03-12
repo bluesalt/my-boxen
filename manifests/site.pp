@@ -74,6 +74,7 @@ node default {
 
   include textmate::textmate2::release
   include virtualbox
+  include vagrant
 
   # common, useful packages
   package {
