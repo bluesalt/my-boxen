@@ -73,6 +73,7 @@ node default {
   include ruby::2_0_0
 
   include textmate::textmate2::release
+  include virtualbox
 
   # common, useful packages
   package {
