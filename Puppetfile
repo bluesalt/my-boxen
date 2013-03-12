@@ -31,7 +31,7 @@ github "ruby",     "3.1.0"
 github "stdlib",   "3.0.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",     "1.0.0"
 github "textmate", "1.1.0"
-github "virtualbox", "1.0.1"
+github "virtualbox", "1.0.1.sf", :repo => "bluesalt/puppet-virtualbox"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
