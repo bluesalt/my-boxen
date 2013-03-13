@@ -6,7 +6,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: bluesalt/puppet-virtualbox
   specs:
-    virtualbox (1.0.1.sf)
+    virtualbox (1.0.1.3)
 
 GITHUBTARBALL
   remote: boxen/puppet-boxen
@@ -94,5 +94,5 @@ DEPENDENCIES
   sudo (= 1.0.0)
   textmate (= 1.1.0)
   vagrant (= 1.0.2)
-  virtualbox (= 1.0.1.sf)
+  virtualbox (= 1.0.1.3)
 
