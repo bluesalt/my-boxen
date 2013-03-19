@@ -1,4 +1,4 @@
-class project::boxen-web {
+class projects::boxen-web {
   boxen::project { 'boxen-web':
     nginx => true,
     postgresql => true,
