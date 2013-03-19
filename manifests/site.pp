@@ -73,8 +73,8 @@ node default {
   include ruby::2_0_0
 
   include textmate::textmate2::release
-  include virtualbox
-  include vagrant
+  #include virtualbox
+  #include vagrant
 
   # common, useful packages
   package {
