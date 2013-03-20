@@ -33,6 +33,3 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
-#
-github "sysctl", "1.0.0"
-github "postgresql", "1.0.0"
