@@ -1,4 +1,7 @@
 class projects::boxen-web {
+  postgresql::db { 'boxen_development': }
+  postgresql::db { 'boxen_test': }
+
   boxen::project { 'boxen-web':
     nginx => true,
     postgresql => true,
