@@ -19,7 +19,7 @@ class people::bluesalt{
   git::config::global { 'core.editor':
     value => 'vim'
   }
-  git::config::global { 'core.ui':
+  git::config::global { 'color.ui':
     value => 'true'
   }
 }
