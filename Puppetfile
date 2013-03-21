@@ -37,3 +37,5 @@ github "sudo",     "1.0.0"
 github "sysctl", "1.0.0"
 github "postgresql", "1.0.0"
 github "iterm2", "1.0.1"
+
+github "go", "0.0.1", :repo => "bluesalt/puppet-go"
