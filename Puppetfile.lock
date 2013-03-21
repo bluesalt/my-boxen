@@ -1,4 +1,9 @@
 GITHUBTARBALL
+  remote: bluesalt/puppet-bazaar
+  specs:
+    bazaar (0.0.1)
+
+GITHUBTARBALL
   remote: bluesalt/puppet-go
   specs:
     go (0.0.1)
@@ -84,6 +89,7 @@ GITHUBTARBALL
     stdlib (3.0.0)
 
 DEPENDENCIES
+  bazaar (= 0.0.1)
   boxen (= 1.2.0)
   dnsmasq (= 1.0.0)
   gcc (= 1.0.0)
