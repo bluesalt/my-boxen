@@ -2,7 +2,7 @@ class projects::gosteno {
   include go
   include bazaar
 
-  boxen::project { 'gosteno':
+  boxen::project { 'gopath/src/gosteno':
     source => 'bluesalt/gosteno'
   }
 }
