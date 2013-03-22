@@ -40,5 +40,4 @@ github "iterm2", "1.0.1"
 
 github "bazaar", "0.0.1", :repo     => "bluesalt/puppet-bazaar"
 github "mercurial", "0.0.1", :repo  => "bluesalt/puppet-mercurial"
-github "subversion", "0.0.1", :repo => "bluesalt/puppet-subversion"
 github "go", "0.0.1", :repo => "bluesalt/puppet-go"

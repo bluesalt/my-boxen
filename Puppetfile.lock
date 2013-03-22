@@ -14,11 +14,6 @@ GITHUBTARBALL
     mercurial (0.0.1)
 
 GITHUBTARBALL
-  remote: bluesalt/puppet-subversion
-  specs:
-    subversion (0.0.1)
-
-GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (1.2.0)
@@ -116,7 +111,6 @@ DEPENDENCIES
   postgresql (= 1.0.0)
   ruby (= 3.1.0)
   stdlib (= 3.0.0)
-  subversion (= 0.0.1)
   sudo (= 1.0.0)
   sysctl (= 1.0.0)
 
